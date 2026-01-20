@@ -6,7 +6,8 @@
 
 A lightweight, privacy-focused Chrome extension that surfaces non-intrusive motivational quotes while you work. Designed to boost focus and mental resilience without hijacking your New Tab page or disrupting your workflow.
 
-**Official Website:** [Quotes For Motivation](https://quotesformotivation.com)
+**Official Website:** [Quotes For Motivation](https://quotesformotivation.com)  
+**Chrome Web Store:** [Get the Extension](https://chromewebstore.google.com/detail/dbnkcjolcadfoomdiocimnmahjnbmobm?utm_source=item-share-cb)
 
 ---
 
