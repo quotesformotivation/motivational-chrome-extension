@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Quotes for Motivation: Focus & Productivity Hack",
   "version": "1.0",
-  "description": "Restore focus with non-intrusive motivational quotes that won't hijack your New Tab. Features Dark Mode and smart scheduling.",
+  "description": "The advanced Motivation Chrome Extension for focus. Features Smart Scheduling, Pillar-based quotes, and a non-intrusive Dark Mode UI.",
   "icons": {
     "16": "assets/icons/icon-16.png",
     "32": "assets/icons/icon-32.png",
