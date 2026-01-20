@@ -1,12 +1,16 @@
-# OS
+# OS & System
 .DS_Store
+Thumbs.db
 
-# Archives
+# Node / Build
+node_modules/
+dist/
+build/
 *.zip
+*.crx
+*.pem
+.env
 
-# Editor
+# Editors
 .vscode/
 .idea/
-
-# Logs
-*.log
